@@ -27,8 +27,8 @@ The application utilizes the following technologies:
 
 - Next.js
 - React
-- A-Frame
-- WebVR
+- Javascript
+- Tailwind CSS
 - Three.js
 
 ## Contributing
